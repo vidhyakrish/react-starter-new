@@ -1,6 +1,6 @@
 # react-starter-new
 
-Learn Bloody Javascript first!
+Learn Bloody Javascript first! :D
 
 npm install
 
